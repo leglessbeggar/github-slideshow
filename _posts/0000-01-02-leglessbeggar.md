@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is my first edit
+
 Use the left arrow to go bac
